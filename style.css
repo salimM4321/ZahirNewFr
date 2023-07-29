@@ -1,0 +1,53 @@
+.container{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+
+    
+}
+body{
+    background-color: blueviolet;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+h2{
+    text-align: center;
+    margin-right: 51px;
+}
+.none{
+    margin-left: 2rem;
+}
+div.container{
+   background-color: black;
+   color: white;
+}
+a:hover{
+    background-color:blue;
+}
+.note{
+    text-align: center;
+    margin-top: 20px;
+    display: grid;
+    justify-content: center;
+    margin-left: 65px;
+    
+}
+.btn{
+  margin-top: 20rem;
+  margin-left: 8rem;
+  color:black;
+  padding: 8px;
+  width: 5rem;
+  border-radius: 5px;
+    
+    
+}
+.btn:hover{
+    background-color: blueviolet;
+}
+#tw{
+    color: black;
+}
